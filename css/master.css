@@ -1,0 +1,75 @@
+body {
+  background-color: white;
+}
+
+.center {
+  margin: auto;
+  text-align:center;
+}
+#header {
+  height: 40px;
+  background-color: lightgray;
+}
+
+#SignIn {
+  border: solid;
+}
+#main {
+  position: relative;
+  top: 50px;
+  height: 600px;
+}
+
+#footer {
+  height: 3em;
+  width: 100%;
+  bottom:0;
+  position:absolute;
+  background-color: lightgray;
+
+}
+#google_logo {
+  width: 17,5%;
+  position: relative;
+  top: 6em;
+
+}
+
+.searchinput {
+  width: 30%;
+  position: relative;
+  top: 7em;
+}
+
+.searchbuttons input {
+  position: relative;
+  top: 8em;
+  width: 10em;
+
+}
+
+
+
+#languageoffer {
+  margin-top: 1em;
+  position: relative;
+  top: 8em;
+}
+
+
+
+.inline li {
+  display: inline;
+
+}
+
+.left {
+  float: left;
+  margin: 15px;
+
+}
+
+.right {
+  float: right;
+  margin: 15px;
+}
